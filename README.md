@@ -11,14 +11,11 @@ The goal is to transform raw data into clear visual insights that support **data
 
 ## 🖼️ Dashboard Preview
 
-### 📍 Main Dashboard
-![Dashboard Overview](assets/dashboard_overview.png)
-
-### 🗺️ Geographic Analysis (U.S. Map)
-![Map View](assets/map_view.png)
-
-### 📦 Product Performance
-![Product Analysis](assets/product_analysis.png)
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/AbdoElsayed2001/US-Sales-Dashboard-Tableau-Project/blob/main/assets/12.png" width="300" alt="Screenshot 1"/>
+    <img src="https://github.com/AbdoElsayed2001/US-Sales-Dashboard-Tableau-Project/blob/main/assets/2.PNG"  width="300" alt="Screenshot 1"/>
+  <img src="https://github.com/AbdoElsayed2001/US-Sales-Dashboard-Tableau-Project/blob/main/assets/3.PNG"  width="300" alt="Screenshot 1"/>
+</div>
 
 ---
 
